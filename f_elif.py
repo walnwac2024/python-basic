@@ -36,10 +36,10 @@
 #     print("u got excellent marks")
 
 #5th program 
-# tem = 40
-# if tem < 20 :
-#     print("it is cold")
-# elif tem <35 :
-#     print("it is good")
-# else :
-#     print("it is very hot")
+tem = 40
+if tem < 20 :
+    print("it is cold")
+elif tem <35 :
+    print("it is good")
+else :
+    print("it is very hot")
