@@ -14,5 +14,6 @@
 # for i in range (10, 33):
 #     print("fail")
 
-for i in range(1,6):
-    print(f"Loop count:{i}")
+#5th program
+# for i in range(1,6):
+#     print(f"Loop count:{i}")
